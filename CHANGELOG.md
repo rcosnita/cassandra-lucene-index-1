@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.11.6.0 (July 27, 2020)
+
+* Upgrade to Apache Cassandra 3.11.6
+
 ## 3.11.3.0 (September 28, 2018)
 
 * Upgrade to Apache Cassandra 3.11.2
